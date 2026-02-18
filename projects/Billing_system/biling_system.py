@@ -1,4 +1,4 @@
-from tkinter import*
+from tkinter import
 import random
 import os
 from tkinter import messagebox
@@ -423,5 +423,6 @@ class Bill_App:
 root = Tk()
 obj = Bill_App(root)
 root.mainloop()
+
 
 
